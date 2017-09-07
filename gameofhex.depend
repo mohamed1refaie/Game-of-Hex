@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1502120380 source:c:\users\refaie\desktop\ss files\gameofhex\main.cpp
+	<bits/stdc++.h>
+
+1503572788 source:c:\users\refaie\desktop\gameofhex\main.cpp
+	<bits/stdc++.h>
+	"Helpers.h"
+	"Game.h"
+
+1503568393 source:c:\users\refaie\desktop\gameofhex\src\helpers.cpp
+	"Helpers.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1503568393 c:\users\refaie\desktop\gameofhex\include\helpers.h
+	<iostream>
+
+1503572814 c:\users\refaie\desktop\gameofhex\include\game.h
+	<iostream>
+	<bits/stdc++.h>
+	"Helpers.h"
+
+1503572788 source:c:\users\refaie\desktop\gameofhex\src\game.cpp
+	"Game.h"
+	<iostream>
+	<bits/stdc++.h>
+	"Helpers.h"
+
